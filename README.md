@@ -1,8 +1,10 @@
 Analysis of Hospital database with SQL🏥
 🏥 Hospital Data Analysis using SQL
+
 📌 Project Overview
 
 •This project focuses on analyzing hospital data using SQL to extract meaningful insights related to patients, departments, expenses, and operational efficiency.
+
 •The goal is to answer real-world business questions using structured queries and data analysis techniques.
 
 🗂️ Dataset Description
